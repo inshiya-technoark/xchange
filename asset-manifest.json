@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/xchange/static/css/main.3a2f14e0.chunk.css",
+    "main.js": "/xchange/static/js/main.4c189fbc.chunk.js",
+    "main.js.map": "/xchange/static/js/main.4c189fbc.chunk.js.map",
+    "runtime-main.js": "/xchange/static/js/runtime-main.2306dbf2.js",
+    "runtime-main.js.map": "/xchange/static/js/runtime-main.2306dbf2.js.map",
+    "static/css/2.79f57527.chunk.css": "/xchange/static/css/2.79f57527.chunk.css",
+    "static/js/2.3c4ee812.chunk.js": "/xchange/static/js/2.3c4ee812.chunk.js",
+    "static/js/2.3c4ee812.chunk.js.map": "/xchange/static/js/2.3c4ee812.chunk.js.map",
+    "static/js/3.beca5099.chunk.js": "/xchange/static/js/3.beca5099.chunk.js",
+    "static/js/3.beca5099.chunk.js.map": "/xchange/static/js/3.beca5099.chunk.js.map",
+    "index.html": "/xchange/index.html",
+    "static/css/2.79f57527.chunk.css.map": "/xchange/static/css/2.79f57527.chunk.css.map",
+    "static/css/main.3a2f14e0.chunk.css.map": "/xchange/static/css/main.3a2f14e0.chunk.css.map",
+    "static/js/2.3c4ee812.chunk.js.LICENSE.txt": "/xchange/static/js/2.3c4ee812.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/xchange/static/media/sell-img-3.953c3863.png",
+    "static/media/brands.css": "/xchange/static/media/fa-brands-400.c1210e5e.woff2",
+    "static/media/solid.css": "/xchange/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/font-awesome.min.css": "/xchange/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2306dbf2.js",
+    "static/css/2.79f57527.chunk.css",
+    "static/js/2.3c4ee812.chunk.js",
+    "static/css/main.3a2f14e0.chunk.css",
+    "static/js/main.4c189fbc.chunk.js"
+  ]
+}
